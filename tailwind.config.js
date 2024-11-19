@@ -15,9 +15,7 @@ module.exports = {
         primary: setColors("primary"),
       },
       fontFamily: {
-        "custom-serif": ["IBM Plex Serif", "Verdana", "serif"],
-        "custom-sans": ["Helvetica Neue", "IBM Plex Sans", "sans-serif"],
-        "custom-mono": ["IBM Plex Mono", "Malayalam Sangam MN", "monospace"],
+        custom: ["Fellix", "Helvetica Neue", "IBM Plex Sans", "sans-serif"],
       },
     },
   },
